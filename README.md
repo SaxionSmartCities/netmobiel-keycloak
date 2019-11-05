@@ -13,5 +13,4 @@ You may use version numbering in the archive for easier tracking, e.g. ```netmob
 Deploy the archive at the keycloak server in ```<keycloak-root>/standalone/deployments```
 
 ## Configure Keycloak realm
-Goto the NetMobiel realm, select ```Realm Settings```, select tab ```Themes``` and choose the Netmobiel theme from the dropdown at ```Login Theme```.
-This has to be done only once.
+Login as administrator at the Keycloak console. Select the```NetMobiel realm```, ```Realm Settings```, tab ```Themes``` and choose the Netmobiel theme from the dropdown at ```Login Theme```. This has to be done only once.
