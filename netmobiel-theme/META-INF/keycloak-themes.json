@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "NetMobiel",
+        "types": [ "login" ]
+    }]
+}
