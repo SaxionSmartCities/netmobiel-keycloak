@@ -17,15 +17,13 @@ body{
     height:230px;
 }
 
-#kc-content a, #kc-form-buttons .btn{
+#kc-form-buttons .btn{
     padding:10px;
     background:#FF8500;
     color:#fff;
     border-radius: 3000px;
     font-size:1.3em;
     border: 0px;
-}
-#kc-content a:hover, #kc-form-buttons .btn{    
     background:rgb(255,133,40);
 }
 
