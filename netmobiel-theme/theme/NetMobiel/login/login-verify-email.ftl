@@ -10,7 +10,7 @@
             ${msg("emailVerifyInstruction2")} <a href="${url.loginAction}">${msg("doClickHere")}</a> ${msg("emailVerifyInstruction3")}
         </p>
         <p class="instruction">
-            ${msg("emailVerifyInstruction4")} <a id="loginRestartLink" href="${url.loginRestartFlowUrl}">${msg("doClickHere")}</a>
+            ${msg("emailVerifyInstruction4")} <a href="${url.loginUrl}">${msg("doClickHere")}</a>
         </p>
     </#if>
 </@layout.registrationLayout>
